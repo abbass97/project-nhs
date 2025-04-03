@@ -27,7 +27,7 @@ This repository contains a Jupyter Notebook completed as part of a data analytic
 - Matplotlib
 - Seaborn
 
-## Getting Started
+## Getting Started:
 
 1. Clone this repo:
    ```bash
@@ -44,7 +44,7 @@ This repository contains a Jupyter Notebook completed as part of a data analytic
 
 ---
 
-## Author
+## Author:
 
 **Saima Abbas**  
 Data Analyst | Python Enthusiast  
