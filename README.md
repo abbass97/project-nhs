@@ -8,7 +8,7 @@ This repository contains a Jupyter Notebook completed as part of a data analytic
 
 ## Notebook:
 
-- **File**: `Abbas_Saima_DA201_Assignment_Notebook (1).ipynb`
+- **File**: `nhs_data.ipynb`
 - **Tools used**: Pandas, Matplotlib, Seaborn, Jupyter Notebook
 - **Objective**: To extract meaningful insights from NHS data through cleaning, analysis, and visualisation.
 
