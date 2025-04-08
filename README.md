@@ -39,7 +39,7 @@ This repository contains a Jupyter Notebook completed as part of a data analytic
    ```
 3. Open the notebook in Jupyter:
    ```bash
-   jupyter notebook "Abbas_Saima_DA201_Assignment_Notebook (1).ipynb"
+   jupyter notebook "nhs_data.ipynb"
    ```
 
 ---
